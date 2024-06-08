@@ -1,0 +1,21 @@
+{
+  "name": "big-data-indexing-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.16.0",
+    "ajv-formats": "^3.0.1",
+    "dotenv": "^16.4.5",
+    "etag": "^1.8.1",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "redis": "^4.6.14"
+  }
+}
